@@ -27,6 +27,9 @@ body{
 .temperature{
   flex-direction: column;
 }
+.temperature-section{
+  display: flex;
+}
 .degree-section{
   display: flex;
   align-items: center;
